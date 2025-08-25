@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ <img width="661" height="920" alt="EDM_2_PDF" src="https://github.com/user-attachments/assets/f4907739-02cd-4cd4-8a4c-9b97a701d811" />
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
